@@ -60,8 +60,6 @@ $ npm run test:cov
 
 ## Support
 
-
-
 ## Stay in touch
 
 - Author - [Vinicio Borja](https://github.com/Vinici0)
